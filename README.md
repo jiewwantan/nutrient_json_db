@@ -1,8 +1,8 @@
 # Parsing USDA food database
 
-This project loads the USDA food database in json format and parses the data into components that usable for analysis in a time and computation efficient manner.  
-Finally food nutrient info can be displayed to users in a plot and tables (CSV files). 
-Zinc content plot is displayed in the final result. The other nutrient content type would work similarly. 
+This project loads the USDA food database in json format and parses the data into components for analysis in a time and computation efficient manner.  
+Food nutrient info will be displayed to users in a plot and tables (CSV files). 
+Zinc content plot is displayed here in the final result. The other nutrient content type would work similarly. 
 
 [image1]: https://github.com/jiewwantan/nutrient_json_db/blob/master/zinc_content.png "Zinc Content"
 
