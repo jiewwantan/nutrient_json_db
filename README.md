@@ -1,7 +1,7 @@
 # Parsing USDA food database
 
 This project loads the USDA food database in json format and parses the data into components that usable for analysis in a time and computation efficient manner.  
-Finally food nutrient info can be displayed to users in both plot or table. 
+Finally food nutrient info can be displayed to users in a plot and tables (CSV files). 
 Zinc content plot is displayed in the final result. The other nutrient content type would work similarly. 
 
 [image1]: https://github.com/jiewwantan/nutrient_json_db/blob/master/zinc_content.png "Zinc Content"
@@ -102,7 +102,7 @@ search algorithm design, I believe it is still possible to design an algorithm t
 
 ## Instructions
 
-To execute the program, under command prompt, go to the folder where both files: USDA_FD.py and nutrients.json reside, run: 
+To execute the program, under command prompt, place USDA_FD.py, USDA_FD.py and nutrients.json under the same folder, run: 
 
 `python USDA_FD.py`
 
